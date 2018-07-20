@@ -8,13 +8,13 @@ using namespace std;
 int main()
 {
 
-//    //factorial
-//    int n;
-//    int i;
-//    int res;
-//
-//    cin >> n;
-//    cout << factorial(n)<<"\n";
+    //factorial
+    int n;
+    int i;
+    int res;
+
+    cin >> n;
+    cout << factorial(n)<<"\n";
 
 
     std::string str1= "Hello world";
